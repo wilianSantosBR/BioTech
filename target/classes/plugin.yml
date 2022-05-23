@@ -1,8 +1,0 @@
-name: BioTech
-author: wilianSantosBR e RelativoBR
-description: SlimeFun custom BioTech new machine and resources
-main: com.github.wiliansantosbr.biotech.BioTech
-website: https://github.com/wiliansantosbr/BioTech
-depend: [Slimefun, SupremeExpansion]
-version: 1.0.0
-api-version: 1.17
