@@ -14,7 +14,7 @@ Slimefun Version: RC-31
 
 ## Bugs/Suggestions
 
-Make a new issue, pull request, or contact me on discord @WilianSantos#7381 or @RelativoBR#9577
+Make a new issue, pull request, or contact me on discord @WilianSantos#7381
 
 <p>
   <a href="https://discord.gg/slimefun">
